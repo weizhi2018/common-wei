@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/common-algorithm/common-algorithm.iml" filepath="$PROJECT_DIR$/common-algorithm/common-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-tools/common-tools.iml" filepath="$PROJECT_DIR$/common-tools/common-tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-wei.iml" filepath="$PROJECT_DIR$/common-wei.iml" />
     </modules>
   </component>
